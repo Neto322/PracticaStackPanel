@@ -16,7 +16,7 @@
 		<Button HorizontalAlignment="Center">Boton siete</Button>
 		<Button  HorizontalAlignment="Right">Boton ocho</Button>
 		<Button Width="250">Interesante mi estimado</Button>
-		<Button Background="Aqua">Ven amigo te invito una copa</Button>
+		<Button Background="Aqua"> Amigo ven te invito una copa</Button>
 		<Button  Language="English">Ya no tomo gracias</Button>
 		<Button>No tomas entonces te invito un cafe</Button>
 		<Button>Buenoo</Button>
